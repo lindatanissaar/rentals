@@ -11,7 +11,7 @@
     <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
-<script src="assets/components/pikaday/pikaday.js"></script>
+<script src="assets/components/pikaday/pikaday.js"></script>lllllllll
 <script>
     var picker = new Pikaday({ field: document.getElementById('datepicker') });
 </script>
